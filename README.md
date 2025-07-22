@@ -46,9 +46,10 @@ from-bits-to-algorithms/
 │   ├── hacking/
 │   └── backend/
 │
-├── js/                      # JavaScript for logic modeling, web-oriented variants
+├── js/                      # JavaScript for logic modeling, web-oriented variants, backend
 │   ├── string/
 │   └── patterns/
+│   └── backend/
 │
 ├── notes/                   # Theory, explanations, complexity analysis, diagrams
 │
